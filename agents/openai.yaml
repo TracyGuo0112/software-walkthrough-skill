@@ -1,0 +1,4 @@
+interface:
+  display_name: "软件走查"
+  short_description: "跨 Web、移动端和桌面端开展证据化的软件质量走查"
+  default_prompt: "Use $software-walkthrough to inspect this product end to end and produce an evidence-backed walkthrough report."
